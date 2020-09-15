@@ -2,7 +2,9 @@ body{
 	background-color: lightblue;
 }
 
-.text {
-	color: blue
+p.main {
+	border-style: dashed;
+	border-width: 5px;
+	color: white; text-shadow: black 0.1em 0.1em 0.2em
 }
 		
